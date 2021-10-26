@@ -6,7 +6,7 @@ public class MyFirstProgram {
 		System.out.println("kekli i lulzi");
 		Scanner scan = new Scanner(System.in);
 		String name = scan.nextLine();
-		System.out.println("putin huilo " + name);
+		System.out.println("putin huilo  !!!!!!!!! " + name);
 		
 	}
 
